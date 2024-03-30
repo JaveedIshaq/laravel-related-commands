@@ -18,4 +18,15 @@ run the migration by dropping all previous database (roleback) and also run seed
 `php artisan migrate:refresh  --seed`
 
 ## Some must have laravel related extension on vscode
+1. php dev sense
+2. Laravel blad formatter
+3. laravel Blad Snippets
+4. Laravel Extra intellisense
+5. Laravel go to view
+6. Auto Rename Tag
+7. 
+
+
+
+ 
 
