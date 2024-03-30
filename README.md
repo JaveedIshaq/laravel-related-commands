@@ -16,3 +16,6 @@ run the migrations and also seed the data
 
 run the migration by dropping all previous database (roleback) and also run seed
 `php artisan migrate:refresh  --seed`
+
+## Some must have laravel related extension on vscode
+
